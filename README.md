@@ -47,8 +47,7 @@ It covers foundational topics such as:
 ---
 
 ## 🧑🏽‍💻 Author
-**Yasmin Xussen**  
-📍 Zürich, Switzerland  
+**yxx808**  
 💻 Aspiring Data Analyst & Computer Science Student  
 🌐 [LinkedIn](https://www.linkedin.com) (add later)  
 📧 yasmin@example.com (optional)
